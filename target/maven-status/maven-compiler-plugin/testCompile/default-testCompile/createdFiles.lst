@@ -1,0 +1,5 @@
+pages/P1_Home.class
+utilities/ConfigReader.class
+stepdefinitions/SignIn.class
+hooks/DriverBase.class
+hooks/Hooks.class
